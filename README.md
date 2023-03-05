@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mouad Oudrib</h1>
 <h3 align="center">A student at <a href="https://1337.ma/en/" target="_blank">@1337_Coding_School </a> (<a href="https://um6p.ma/en" target="_blank">UM6P</a> -  <a 
-href="https://42.fr/en/network-42/" target="_blank">42Network)</h3>
+href="https://42.fr/en/network-42/" target="_blank">42Network</a>)</h3>
 
 <br><br>
 <img align="right" alt="Coding" src="https://badge.mediaplus.ma/binary/moudrib" alt="moudrib's 42 stats" />
