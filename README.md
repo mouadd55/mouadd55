@@ -8,7 +8,7 @@ href="https://42.fr/en/network-42/" target="_blank">42Network</a>)</h3>
 <br><br>
 [![](https://visitcount.itsvg.in/api?id=mouadd55&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 🔭 I’m currently working on [Minishell](https://drive.google.com/file/d/1HEwj3iCgQ5evSFhrretMtyHAf_7B_5pf/view?usp=sharing)
+- 🔭 I’m currently working on [NetPractice](https://drive.google.com/file/d/1A6n4EeeSrUM3NOpnRHsTHOzyFUumNVIR/view?usp=sharing)
 
 - 📫 How to reach me **mouad.oudrib@gmail.com**
 
