@@ -26,17 +26,4 @@ href="https://42.fr/en/network-42/" target="_blank">42Network</a>)</h3>
 ![](https://github-readme-stats.vercel.app/api?username=mouadd55&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mouadd55&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mouadd55&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<br><br><br>
-<img align="center" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-
-
-
-
-
-
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=mouad_oudrib)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
 ---
